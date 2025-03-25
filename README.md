@@ -4,9 +4,9 @@ Paper Name: Optimizing Citrus Leaf Disease Detection: An Efficient Custom CNN Le
 
 
 
-Paper Link: 10.1109/IICAIET62352.2024.10730688
+- <a href= "10.1109/IICAIET62352.2024.10730688"> IEEE Paper Link </a>
 
 
 
 
-Kaggle Dataset Link: https://www.kaggle.com/datasets/myprojectdictionary/citrus-leaf-disease-image
+- <a href="https://www.kaggle.com/datasets/myprojectdictionary/citrus-leaf-disease-image"> Kaggle Dataset </a>
